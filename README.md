@@ -46,3 +46,5 @@ These DataFrames are then potentially concatenated (using append) to create a si
 Saving Results:
 
 The final DataFrame containing company information is saved as a CSV file.
+
+
